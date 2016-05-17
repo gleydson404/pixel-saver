@@ -35,6 +35,11 @@ Simply follow the instructions and everything should be fine :
 
 Pixel Saver depends on Xorg's xprop utility.
 
+Under Anrch Linux the most easy way is to instal this [package](https://www.archlinux.org/packages/extra/any/xorg-utils/).
+If you aldeady have [yaourt](https://archlinux.fr/yaourt-en) installed in your arch, just run the comand
+
+`yaourt xorg-utils`
+
 Configuration
 -------------
 
